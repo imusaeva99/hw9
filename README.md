@@ -1,9 +1,6 @@
 # hw9
 
 _Использовала регулярное выражение_ \s{2,} _заменила все вхождения на_ \n
-![img1](https://github.com/imusaeva99/hw9/blob/master/Screen%20Shot%202018-05-31%20at%205.16.24%20PM.png)
-
-Или так:
 
 ![img2](https://github.com/imusaeva99/hw9/blob/master/Screen%20Shot%202018-05-31%20at%206.23.48%20PM.png)
 
